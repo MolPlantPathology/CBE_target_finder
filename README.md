@@ -27,7 +27,7 @@ The pipeline was applied to explore the viability of this method for generation 
 
 # Figures
 
-[CBE_figure1.pdf](https://github.com/user-attachments/files/18167748/CBE_figure1.pdf)
+**Figure 1. Exploration of suitable CBE targets for effective gene knockouts in six phytopathogenic bacterial species.** **A)** Percent of genes in each genome that feature a putative gRNA target site. **B)** Distribution of GC-content between all genes per species. **C)** Distribution of suitable codon (that could be changed into a STOP codon by the CBE) frequency between all genes per species. **D)** Density plot showing the correlation between suitable codon frequency and fraction of protein remaining after introduction of a premature STOP codon. **E)** Density plots showing the correlation between GC-content of each gene and the suitable codon frequency  (*top panel*) and the fraction of protein remaining after introduction of a premature STOP codon (*bottom panel*).
 
 ![CBE_figure1](https://github.com/user-attachments/assets/10a90e43-e35c-4ec4-8fb1-d59ab1405856)
 
