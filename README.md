@@ -27,7 +27,7 @@ The pipeline was applied to explore the viability of this method for generation 
 
 # Figures
 
-![Analysis of suitable targets within genes in six phytopathogenic bacterial species](/figures/CBE_figure1.pdf?raw=true "figures")
+![figures](/figures/CBE_figure1.pdf?raw=true "figures")
 
 
 
