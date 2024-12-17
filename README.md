@@ -29,5 +29,6 @@ The pipeline was applied to explore the viability of this method for generation 
 
 [CBE_figure1.pdf](https://github.com/user-attachments/files/18167748/CBE_figure1.pdf)
 
+![CBE_figure1](https://github.com/user-attachments/assets/10a90e43-e35c-4ec4-8fb1-d59ab1405856)
 
 
