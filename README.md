@@ -1,4 +1,4 @@
-# CBE_target_finder
+# CBE target finder for generation of early STOP codons in bacterial genes
 This repository provides an R-based pipeline to identify suitable targets for dCas9-guided Cytosine Base Editors (CBEs) to generate gene knockouts in plant pathogenic bacteria. The pipeline was made to easily identify the most suitable targets for introduction of a premature STOP codon using the system described in the study: **Efficient CRISPR-Cas9 based cytosine base editors  for phytopathogenic bacteria** by Li et al., *Communications Biology* (2023) https://doi.org/10.1038/s42003-023-04451-8
 
 ## The pipeline
