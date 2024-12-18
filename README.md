@@ -29,6 +29,13 @@ The pipeline was applied to explore the viability of this method for generation 
 
 **Figure 1. Exploration of suitable CBE targets for effective gene knockouts in six phytopathogenic bacterial species.** **A)** Percent of genes in each genome that feature a suitable CBE target site. These sites consist of a Cas9 PAM site with a suitable codon (editable to STOP codon) in position -16 to -20 **B)** Distribution of GC-content between all genes per species. **C)** Distribution of suitable codon (that could be changed into a STOP codon by the CBE) frequency between all genes per species. **D)** Density plot showing the correlation between suitable codon frequency and fraction of protein remaining after introduction of a premature STOP codon. **E)** Density plots showing the correlation between GC-content of each gene and the suitable codon frequency  (*top panel*) and the fraction of protein remaining after introduction of a premature STOP codon (*bottom panel*).
 
-![CBE_figure1](https://github.com/user-attachments/assets/10a90e43-e35c-4ec4-8fb1-d59ab1405856)
+![CBE_figure1](https://github.com/user-attachments/assets/d7d503d2-3cd4-47ec-a9de-de4b6ee7532a)
+
+**Figure 2. Application of the dCas9-CBE system to study bacterial type III effectors (T3Es) .** **A)** Number of predicted T3E genes for each strain shown in Figure 1. *A. tumefaciens* and *X. fastidiosa* lack a functional type III secretion system (T3SS). **B)** Remaining fraction of T3E protein after earliest STOP codon introduction in each T3E gene. A considerable amount of T3E proteins can only be truncated, leaving a large portion of the resulting protein intact.
+
+![CBE_figure2](https://github.com/user-attachments/assets/8b0060d2-cfa8-4dc2-87c8-59d83f606a64)
+
+
+
 
 
